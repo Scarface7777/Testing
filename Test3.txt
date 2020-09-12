@@ -1,0 +1,1 @@
+This file test3 was initialized in master
